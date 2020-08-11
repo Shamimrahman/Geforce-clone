@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color:  black!important;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+
+}
+
+button{
+	background-color: #76b800;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+}
+
+/* Sticky Navbar */
+
+
+.sticky.is-sticky {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+
+
+
+
+
+
+/*Actual css */
+
+/*first nav css */
+
+.first-nav{
+	background-color: white;
+}
+/*first nav css end */
+
+/*third nav css */
+
+
+.third-nav{
+
+	background-color: #171717;
+
+}
+
+/*third nav css end */
+
+
+.firstsec-style{
+	color: white;
+	margin:  10% 0;
+
+}
+
+.firstsec-style h1{
+	color: #76b800;
+	
+}
+
+
+.secondsec-style{
+  margin: 8% 0px;
+  color: white;
+}
+
+.secondsec-style li{
+	list-style: none;
+}
+
+.secondsec-style a{
+
+	color: #76b800!important;
+	
+}
+
+.thirdsec-style{
+	margin: 8% 0;
+	color: white;
+}
+
+
+
+.vedio-section{
+	margin: 8% 0;
+}
+
+.fourthsec-style{
+	margin: 8% 0;
+	color: white;
+}
+
+
+ 
+
