@@ -105,6 +105,58 @@ button{
 	color: white;
 }
 
+.fourthsec-style a{
+	color: #76b800!important;
+	
+}
+.fifthsec-style{
+  margin: 8% 0px;
+  color: white;
+}
+ 
+.card-sec-one{
+	margin: 8% 0;
+
+}
+
+.card-sec-one h2{
+	color: white;
+	text-align: center;
+	
+}
+
+.card{
+	border: none!important;
+	text-align: justify!important;
+	align-items: center!important;
+	background-color:  black!important;
+	border: none;
+
+}
+
+.card-body{
+	align-items: center;
+	border:  none;
+	color: white;
+	line-break: 1px;
+
+
+}
+
+.card{
+	transition: 0.4s ease;
+
+
+}
+
+.card:hover{
+	transform: translateY(-20px);
+	box-shadow: 0 0 20px 0 rgb(0, 0, 0);
+}
+
+.card a{
+	color: #76b800!important;
+}
 
  
 
