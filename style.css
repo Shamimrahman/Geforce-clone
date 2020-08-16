@@ -158,5 +158,39 @@ button{
 	color: #76b800!important;
 }
 
+.buttonsec{
+	align-items: center;
+	margin: 8% 0;
+
+}
+
+.buttonsec button{
+
+	background-color:  #76b800!important;
+	color: white;
+	border:none ;
+
+}
+
+
+.fontawsome{
+	margin: 1% 0;
+
+}
+
+.fontawsome h2{
+
+	color: white;
+	font-size: 25px;
+
+}
+
+.fontawsome a{
+	color:  #76b800!important;
+	font-size: 25px
+}
+.fontawsome i{
+	color:  #76b800!important;
+	}
  
 
