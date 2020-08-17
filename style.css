@@ -2,6 +2,8 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+		font-family: 'Source Sans Pro', sans-serif;
+
 }
 
 body{
@@ -192,5 +194,58 @@ button{
 .fontawsome i{
 	color:  #76b800!important;
 	}
- 
+ /*Support List part css start*/
+
+.support-list{
+	margin: 8% 0;
+	color: white;
+
+}
+
+.support-list li{
+	list-style: none;
+
+
+}
+
+.support-list a{
+	color:  #76b800!important;
+	align-items: center;
+}
+
+/*Support List part css End*/
+
+/*Subscribe part start*/
+
+.subscribe{
+	margin: 8% 0px;
+	color: white;
+}
+
+.subscribe i{
+
+color: grey;
+
+
+}
+
+.msgi{
+	color:  #76b800!important;
+}
+
+.foot{
+
+	padding:  80px 0;
+	background-color:white;
+	color: grey;
+
+}
+
+.pad{
+
+	padding-right: 170px 
+
+}
+
+
 
